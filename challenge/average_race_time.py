@@ -13,7 +13,6 @@ def get_data():
 def get_rhines_times():
     """Return a list of Jennifer Rhines' race times"""
     races = get_data()
-    pass
 
 def get_average():
     """Return Jennifer Rhines' average race time in the format:
